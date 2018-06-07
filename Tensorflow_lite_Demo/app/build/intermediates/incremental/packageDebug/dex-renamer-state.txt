@@ -1,0 +1,4 @@
+#Tue Jun 05 18:45:38 CST 2018
+base.0=/Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/build/intermediates/transforms/jack/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/build/intermediates/transforms/jack/debug/folders/1000/1f/main/classes.dex

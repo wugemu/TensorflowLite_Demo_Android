@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/build/intermediates/res/merged/debug/layout-v26/abc_screen_toolbar.xml",
+        "source": "/Users/jessie/.android/build-cache/1289127601dfb9e14af80f64c14d4c652b982d8f/output/res/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/build/intermediates/res/merged/debug/layout-v26/fragment_camera2_basic.xml",
+        "source": "/Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/res/layout-v26/fragment_camera2_basic.xml"
+    }
+]

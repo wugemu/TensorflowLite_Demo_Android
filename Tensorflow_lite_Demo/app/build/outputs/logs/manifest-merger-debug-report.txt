@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:18:1-43:12
+	package
+		ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		INJECTED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:24:19-67
+uses-sdk
+ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:26:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jessie/.android/build-cache/1986292890cbf34ac3cd83129741c783aee542c4/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.1] /Users/jessie/.android/build-cache/de0fd67299b500d46f0899c3afdf5616d0c0d39b/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/jessie/.android/build-cache/1289127601dfb9e14af80f64c14d4c652b982d8f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/jessie/.android/build-cache/c33e2a17fab66a9692a9c726a752bce704f4d08e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/jessie/.android/build-cache/0e0d2ef34f42b3861080ef2e890aca2af3dcc5f8/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/jessie/.android/build-cache/2c7f77fec592e334c88a82f0c749df0a08b4f44e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.1] /Users/jessie/.android/build-cache/8e5917f0a69c304fb1d9a959a4de15bc2d2ccff0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:26.0.1] /Users/jessie/.android/build-cache/9f6b772976f8bd95200e8c8f54ea5e9342ca3e79/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:26.0.1] /Users/jessie/.android/build-cache/3a3542e9fa81aa6319329d6070988a25259434b3/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/jessie/.android/build-cache/2f4192383317861924920519d1cc83c26bb84162/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/jessie/.android/build-cache/e9d346fe20f5f9016d463d168913afc3a5e2e6a6/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/jessie/.android/build-cache/3a8c690b0eca4d72cc1075dbe6a1b0a6a502e2e8/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/jessie/.android/build-cache/f4da016939867a12621aea064f0fb4ed019ee204/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.1] /Users/jessie/.android/build-cache/f3a7e60e0898a5489cec7eb8226dfba9eb7213fa/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.1] /Users/jessie/.android/build-cache/de0fd67299b500d46f0899c3afdf5616d0c0d39b/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:26:15-41
+		INJECTED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:28:5-41:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jessie/.android/build-cache/1986292890cbf34ac3cd83129741c783aee542c4/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.1] /Users/jessie/.android/build-cache/de0fd67299b500d46f0899c3afdf5616d0c0d39b/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/jessie/.android/build-cache/1289127601dfb9e14af80f64c14d4c652b982d8f/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/jessie/.android/build-cache/c33e2a17fab66a9692a9c726a752bce704f4d08e/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/jessie/.android/build-cache/0e0d2ef34f42b3861080ef2e890aca2af3dcc5f8/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/jessie/.android/build-cache/2c7f77fec592e334c88a82f0c749df0a08b4f44e/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.1] /Users/jessie/.android/build-cache/8e5917f0a69c304fb1d9a959a4de15bc2d2ccff0/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v13:26.0.1] /Users/jessie/.android/build-cache/9f6b772976f8bd95200e8c8f54ea5e9342ca3e79/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] /Users/jessie/.android/build-cache/3a3542e9fa81aa6319329d6070988a25259434b3/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/jessie/.android/build-cache/2f4192383317861924920519d1cc83c26bb84162/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/jessie/.android/build-cache/e9d346fe20f5f9016d463d168913afc3a5e2e6a6/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/jessie/.android/build-cache/3a8c690b0eca4d72cc1075dbe6a1b0a6a502e2e8/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/jessie/.android/build-cache/f4da016939867a12621aea064f0fb4ed019ee204/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] /Users/jessie/.android/build-cache/f3a7e60e0898a5489cec7eb8226dfba9eb7213fa/output/AndroidManifest.xml:25:5-29:19
+MERGED from [org.tensorflow:tensorflow-lite:0.1.7] /Users/jessie/.android/build-cache/14028c9bd205d20c0ee6ca010380cd8d62aa1086/output/AndroidManifest.xml:4:5-5:19
+	android:label
+		ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:29:9-41
+	android:allowBackup
+		ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:28:18-44
+	android:icon
+		ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:30:9-45
+	android:theme
+		ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:31:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:33:9-40:20
+	android:screenOrientation
+		ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:34:19-55
+	android:label
+		ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:35:19-51
+	android:name
+		ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:33:19-85
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:38:27-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.1] /Users/jessie/.android/build-cache/de0fd67299b500d46f0899c3afdf5616d0c0d39b/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/jessie/.android/build-cache/1289127601dfb9e14af80f64c14d4c652b982d8f/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/jessie/.android/build-cache/c33e2a17fab66a9692a9c726a752bce704f4d08e/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/jessie/.android/build-cache/0e0d2ef34f42b3861080ef2e890aca2af3dcc5f8/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/jessie/.android/build-cache/2c7f77fec592e334c88a82f0c749df0a08b4f44e/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.1] /Users/jessie/.android/build-cache/8e5917f0a69c304fb1d9a959a4de15bc2d2ccff0/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v13:26.0.1] /Users/jessie/.android/build-cache/9f6b772976f8bd95200e8c8f54ea5e9342ca3e79/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] /Users/jessie/.android/build-cache/3a3542e9fa81aa6319329d6070988a25259434b3/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/jessie/.android/build-cache/2f4192383317861924920519d1cc83c26bb84162/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/jessie/.android/build-cache/e9d346fe20f5f9016d463d168913afc3a5e2e6a6/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/jessie/.android/build-cache/3a8c690b0eca4d72cc1075dbe6a1b0a6a502e2e8/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/jessie/.android/build-cache/f4da016939867a12621aea064f0fb4ed019ee204/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] /Users/jessie/.android/build-cache/f3a7e60e0898a5489cec7eb8226dfba9eb7213fa/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.0.1] /Users/jessie/.android/build-cache/de0fd67299b500d46f0899c3afdf5616d0c0d39b/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.0.1] /Users/jessie/.android/build-cache/de0fd67299b500d46f0899c3afdf5616d0c0d39b/output/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:18:1-43:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:18:1-43:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/jessie/Desktop/AndroidStudioProjects/Tensorflow_lite_Demo/app/src/main/AndroidManifest.xml:18:1-43:12 reason: org.tensorflow.lite requested WRITE_EXTERNAL_STORAGE
